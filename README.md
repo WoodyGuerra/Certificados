@@ -2,8 +2,9 @@
 ## Django
 ![certificado django](imagens/certificado_django.png)
 ## Banco de Dados
-![certificado django](imagens/certificado_bd1.png)
+![certificado bd](imagens/certificado_bd1.png)
 ## Python
-![certificado django](imagens/certificado_python1.png)
+![certificado python1](imagens/certificado_python1.png)
+![certificado python2](imagens/certificado_python2.png)
 ## Excel
-![certificado django](imagens/certificado_excel.png)
+![certificado excel](imagens/certificado_excel.png)
